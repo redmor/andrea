@@ -63,3 +63,13 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-id="" status="online",辽宁卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",辽宁卫视 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",晋中综合 (1080p)
+http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+#EXTINF:-1 tvg-id="" status="online",上海金山电视台 (270p)
+http://live.mudu.tv/watch/4zbn2f.m3u8
+#EXTINF:-1 tvg-id="" status="online",云南 Ⅰ 文山公共台 (1080p)
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
+#EXTINF:-1 tvg-id="" status="online",浙江影视 (1080p)
+http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
